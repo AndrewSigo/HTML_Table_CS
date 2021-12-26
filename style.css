@@ -1,0 +1,44 @@
+header {
+  text-align: center;
+  font-family: "Pushster", monospace;
+  font-size: 40px;
+  color: blue;
+}
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 50%;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  color: white;
+}
+
+th {
+  font-size: 30px;
+  padding: 2px;
+  border: 1px solid purple;
+  border-collapse: collapse;
+  color: blue;
+}
+
+td {
+  font-size: 16px;
+  padding: 2px;
+  border: 1px solid purple;
+  border-collapse: collapse;
+}
+
+body {
+  background-image: url("Images/nasa-Q1p7bh3SHj8-unsplash.jpg");
+  font-family: monospace;
+}
+
+tr:hover {
+  background-color: purple;
+}
+
+.line_left {
+  text-align: left;
+}
